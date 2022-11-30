@@ -11,7 +11,6 @@ h1{
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #D96459;
-  background-color: #EAF6F6;
 }
 
 h2{
@@ -38,6 +37,7 @@ hr{
   border-bottom: none;
   width: 4%;
   margin: 50px auto;
+  background-color: #EAF6F6;
 }
 
 
