@@ -1,0 +1,131 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #D96459;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #D96459;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #11999E;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #D8D9CF 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
+
+
+.title-section{
+  background-color: #EAF6F6;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.top-image{
+  height: 100%;
+  width: 100%;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+.invitation-section{
+  background-color: #EAF6F6;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+
+.tema-natal{
+  padding-top: 50px;
+  padding-bottom:100px;
+  width: 100%;
+  text-align: center;
+}
+
+.circular-pic{
+  margin-top: 10px;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.intro-undangan{
+  width: 30%;
+  margin: auto;
+  text-align: center;
+}
+
+.tanggal-undangan{
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom:10px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  color: #D96459;
+}
+
+.tempat-undangan{
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 0;
+  font-size: 20px;
+  color: #40514E;
+}
+
+.location-button {
+  margin: 50px auto;
+}
+
+.pembicara{
+  background-color: #EAF6F6;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.nama-pembicara{
+  padding-bottom: 30px;
+  font-size: 50px;
+}
+
+.closing-pembicara{
+  padding-bottom: 50px;
+}
+
+.credit{
+  font-size: 7px;
+}
